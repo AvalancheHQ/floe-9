@@ -11,6 +11,7 @@
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
     <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
     <a href="https://github.com/Obsidian-Owl/floe/releases"><img src="https://img.shields.io/badge/version-0.1.0--pre--alpha-orange.svg" alt="Version"></a>
+    <a href="https://codspeed.io/AvalancheHQ/floe-9?utm_source=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcodspeed.io%2Fbadge.json" alt="CodSpeed"></a>
   </p>
 
   <p>
@@ -135,8 +136,7 @@ $ floe compile
 [1/3] Loading platform policies
       ✓ Platform: acme-data-platform v1.2.3
 
-[2/3] Validating pipeline
-      ✓ Naming: bronze_customers (compliant)
+[2/3] Validating pipeline\n      ✓ Naming: bronze_customers (compliant)
       ✓ Test coverage: 85% (>80% required)
 
 [3/3] Generating artifacts
